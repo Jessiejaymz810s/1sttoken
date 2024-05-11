@@ -1,1 +1,3 @@
-Solan token and png
+              - name: Attest Build Provenance
+                uses: actions/attest-build-provenance@v1.1.1
+            
