@@ -2,6 +2,6 @@
   "name": "DISHHUBDOGE",
   "symbol": "WALLOWITS",
   "description": "DishHubDoge token on Solana",
-  "image": "http://127.0.0.1:8000/dishhubdoge.svg",
+  "image": "https://raw.githubusercontent.com/Hood-pi/1sttoken1/main/docs/dishhubdoge.svg",
   "attributes": []
 }
