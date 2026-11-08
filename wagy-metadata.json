@@ -1,0 +1,43 @@
+{
+  "name": "Wrapped Antigravity Token",
+  "symbol": "wAGY",
+  "description": "Wrapped Antigravity Token (wAGY) — 1:1 Cross-Chain Bridged SPL Token on Solana for AntigravityChain (AGY)",
+  "image": "https://antigravitychain.com/agy-logo.png",
+  "logoURI": "https://antigravitychain.com/agy-logo.png",
+  "external_url": "https://antigravitychain.com",
+  "attributes": [
+    {
+      "trait_type": "Origin Chain",
+      "value": "Antigravity Chain (EVM ID 1337)"
+    },
+    {
+      "trait_type": "Origin Contract",
+      "value": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+    },
+    {
+      "trait_type": "Parity",
+      "value": "1 wAGY = 1 AGY"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "1,000,000,000"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://antigravitychain.com/agy-logo.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://antigravitychain.com/assets/agy-logo-512x512.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://antigravitychain.com/agy-logo.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}
